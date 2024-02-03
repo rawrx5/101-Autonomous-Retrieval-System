@@ -17,7 +17,7 @@ int pos = 0;    // variable to store the servo position
 
 #define OPEN_POSITION 180
 #define CLOSED_POSITION 65
-#define CHANGE_DISTANCE 2
+#define CHANGE_DISTANCE 4
 
 int clawIsOpen = 1;
 
